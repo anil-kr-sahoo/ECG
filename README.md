@@ -10,7 +10,7 @@
 
 Steps to run
 - Create a virtualenv (preferable python3.6+)
-- pip install -r requiremnts.txt
+- pip install -r requirements.txt
 - Route to the ECG_codebase
 - run 1_raw_data.py (Get the actual ECG from data with noise)
 - run 2_compair_row_filter.py (Get compairision between actual wave form and Stable wave form)
